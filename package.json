@@ -5,12 +5,16 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "dev":"nodemon src/index.js"
+    "dev": "nodemon src/index.js"
   },
-  "keywords": ["javascript","backend"],
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
   "author": "Himanshu Awasthi",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.0.1"
+    "nodemon": "^3.0.1",
+    "prettier": "^3.1.0"
   }
 }
