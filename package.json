@@ -5,10 +5,10 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev":"nodemon src/index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["javascript","backend"],
+  "author": "Himanshu Awasthi",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.0.1"
